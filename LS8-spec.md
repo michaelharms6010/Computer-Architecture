@@ -1,5 +1,5 @@
 # LS-8 Microcomputer Spec v4.0
-
+  
 ## Registers
 
 8 general-purpose 8-bit numeric registers R0-R7.
